@@ -1,0 +1,8 @@
+<?php
+//mostra os números de 0 à 9
+$x = 0;
+while ($s < 10) {
+  echo "O número é: $x <br/>";
+  $x++; // soma +1 na variável $x
+}
+?>
